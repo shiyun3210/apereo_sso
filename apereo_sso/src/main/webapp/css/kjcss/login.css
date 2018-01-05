@@ -1,0 +1,16 @@
+.loginbox{padding: 30px 0 69px;min-height: 370px;}
+.loginbox .imgbox{width: 550px;height: 370px;overflow: hidden;}
+.loginbox .login{width: 343px;height: 370px;padding-left: 47px;box-shadow: 0 0 6px 0 #E0E0E0;}
+.loginbox .login h2{font-size: 30px;line-height: 42px;margin: 36px 0 20px;position: relative;}
+.loginbox .login .ere{position: absolute;left: 0;bottom: -50px;color: #EE322D;font-size: 12px;line-height: 26px;width: 269px;height: 26px;background:#FFF5F5 url(../../images/common/16px.png) no-repeat 5px 5px;border: 1px solid #F5D7D7;border-radius: 2px;margin-bottom: 16px;display: none;padding-left: 25px;}
+.loginbox .login .same{width: 296px;height: 40px;margin-bottom: 20px;position: relative;}
+.loginbox .login .same input{width: 230px;padding: 11px 16px 11px 48px;display: block;color: #424242;border: 1px solid #D8D8D8;border-radius:3px;box-shadow:0 1px 3px 0 #eee inset;}
+.loginbox .login .password{margin-bottom: 24px;}
+.loginbox .login .phone i{background: url(../../images/login/mailbox.png) no-repeat;display: block;width: 20px;height: 20px;position: absolute;left: 10px;top: 10px;}
+.loginbox .login .password i{background: url(../../images/login/lock.png) no-repeat;display: block;width: 20px;height: 20px;position: absolute;left: 10px;top: 10px;}
+.loginbox .login .submit{width: 296px;height: 42px;margin-bottom: 16px;display: block;background: #F0991E;color: #fff;font-size: 16px;border-radius:3px;cursor: pointer;}
+.loginbox .login .txtbtn{width: 296px;color: #BDBDBD;}
+.loginbox .login .txtbtn .fl a{color: #424242;}
+.loginbox .login .same input:focus{border-color: #23AFF8;box-shadow: 0 0 3px 0 #23AFF8;}
+.header01 .logo{padding: 26px 30px 10px;}
+.autowrap{width: 950px!important;}
